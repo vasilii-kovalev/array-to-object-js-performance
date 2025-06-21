@@ -13,6 +13,8 @@ There are 3 implementation variants:
 2. Reduce + mutation (`getItemsById2`)
 3. `for-of` + mutation (`getItemsById3`)
 
+For benchmarks, I used a package called [mitata](https://github.com/evanwashere/mitata), that Bun [recommends](https://bun.sh/docs/project/benchmarking#benchmarking-tools).
+
 ## Results
 
 ### Browser
