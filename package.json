@@ -1,0 +1,16 @@
+{
+  "name": "array-to-object-js-performance",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@mitata/counters": "^0.0.8",
+    "mitata": "^1.0.34",
+    "vite": "^6.3.5"
+  }
+}
